@@ -1,0 +1,33 @@
+{
+  "name": "Campus-Memo | Take Flight",
+  "description": "A commemorative NFT for the HKU Drone Club coursework project. The collection is limited to 10 NFTs; each mint consumes 100 CPT. Created for an educational deployment on Ethereum Sepolia. This is a student project, not an official university credential.",
+  "image": "https://raw.githubusercontent.com/akatsuki294/RepositoryForSmartContract/a72742a361764331a698f03f88d7cecc287d656c/nft/campus-memo.png",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Campus-Memo"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Take Flight"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Ethereum Sepolia"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2026"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Maximum collection supply",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Mint cost (CPT)",
+      "value": 100
+    }
+  ]
+}
